@@ -1,0 +1,39 @@
+import Main from "@/blocks/home/main";
+import Nav from "@/blocks/home/nav";
+import Stamp from "@/blocks/home/stamp";
+
+export default function Home() {
+  return (
+    <div className="home-container">
+        <header className="nav">
+            <Nav />
+        </header>
+        <main className="main">
+            <Main />
+        </main>
+        <footer className="footer">
+            <Stamp />
+        </footer>
+    </div>
+);
+}
+
+
+
+.home-container{
+
+}
+
+.nav{
+
+}
+
+.main{
+
+}
+
+.footer{
+  
+}
+
+Lets go step by step. Do the grid using regular css.

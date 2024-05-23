@@ -1,0 +1,12 @@
+
+.header-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.navigation-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

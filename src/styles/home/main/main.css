@@ -1,0 +1,12 @@
+.question-answer-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.answers-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
